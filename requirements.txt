@@ -1,0 +1,15 @@
+ipython
+jupyter
+pandas
+numpy
+tensorflow
+boto3
+PyAthena
+plotly
+git+https://github.com/pydata/pandas-datareader.git
+cufflinks
+yahoo-finance
+pandas-datareader
+matplotlib
+mpl_finance
+sklearn
