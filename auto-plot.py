@@ -12,7 +12,8 @@ import matplotlib.dates as mdates
 #import seaborn as sns
 plt.style.use('ggplot')
 
-pickle_file = '../btc-autotrader/lib/data/log/2019-03-10T07:18:55.043476.pickle'
+file_name = '2019-03-11T19:00:26.203575.pickle'
+pickle_file = '../btc-autotrader/lib/data/log/' + file_name
 
 def update_plot():
 
